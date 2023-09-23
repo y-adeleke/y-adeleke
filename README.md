@@ -34,7 +34,7 @@
  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ---
- ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y-adeleke)
+ ![Profile Summary Card](https://github-readme-streak-stats.herokuapp.com/?user=y-adeleke)
  ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=y-adeleke&layout=compact)
 
 
