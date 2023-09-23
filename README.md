@@ -32,16 +32,15 @@
  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ---
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=y-adeleke&show_icons=true" alt="Your Name's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-adeleke&layout=compact" alt="Top Language" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=y-adeleke&show_icons=true" alt="Your Name's GitHub Stats" />
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-adeleke&layout=compact" alt="Top Language" />
+  </div>
+</div>
+
 
 
 
