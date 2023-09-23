@@ -1,6 +1,8 @@
 ### Hi there 👋
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y-adeleke/)
+[![LinkedIn](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/y-adeleke/)
+
 
 
  I am a dedicated and highly motivated software engineering student with a strong background in designing, developing, and deploying full-stack applications. I am passionate about the world of technology and constantly seek opportunities to expand my knowledge and skills in software development.
@@ -32,14 +34,8 @@
  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ---
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=y-adeleke&show_icons=true" alt="Your Name's GitHub Stats" />
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-adeleke&layout=compact" alt="Top Language" />
-  </div>
-</div>
+ ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-adeleke&show_icons=true)
+ ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=y-adeleke&layout=compact)
 
 
 
