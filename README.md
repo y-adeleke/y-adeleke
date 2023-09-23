@@ -36,7 +36,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-adeleke&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-adeleke&theme=merko" alt="Top Languages" />
 </p>
 
 
