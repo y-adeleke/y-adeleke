@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y-adeleke/)
-[![LinkedIn](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/y-adeleke/)
+[![LinkedIn](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bigg_teejay)
 
 
 
@@ -34,7 +34,7 @@
  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ---
- ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-adeleke&show_icons=true)
+ ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y-adeleke)
  ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=y-adeleke&layout=compact)
 
 
