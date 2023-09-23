@@ -36,12 +36,8 @@
 ---
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-    <div style="flex: 1;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=y-adeleke" alt="GitHub Streaks" />
-    </div>
-    <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-adeleke&layout=compact" alt="Top Language" />
-    </div>
+        <img style="border:none;" src="https://github-readme-streak-stats.herokuapp.com/?user=y-adeleke" alt="GitHub Streaks" />
+        <img style="border:none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-adeleke&layout=compact" alt="Top Language" />
 </div>
 
 
