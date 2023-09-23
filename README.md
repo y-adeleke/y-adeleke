@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-y-adeleke-blue)](https://www.linkedin.com/in/y-adeleke/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Y%20Adeleke-blue)](https://www.linkedin.com/in/y-adeleke/)
 
 I am a dedicated and highly motivated software engineering student with a strong background in designing, developing, and deploying full-stack applications. I am passionate about the world of technology and constantly seek opportunities to expand my knowledge and skills in software development.
 
