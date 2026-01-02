@@ -5,7 +5,8 @@
 
 
 
- I am a dedicated and highly motivated software engineering student with a strong background in designing, developing, and deploying full-stack applications. I am passionate about the world of technology and constantly seek opportunities to expand my knowledge and skills in software development.
+Full-Stack Software Engineer & Technical Founder specialized in Enterprise Architecture and high-fidelity UX. Expert in architecting scalable systems and leading digital transformations, including the enterprise-wide rebuild of dotCMS for RBC Wealth Management with a focus on WCAG 2.1 compliance. Proven track record of bridging the gap between complex backend engineering and world-class, inclusive user experiences to drive measurable business outcomes.<img width="468" height="83" alt="image" src="https://github.com/user-attachments/assets/b5cc06db-49fa-4519-bfe1-108880a6dc38" />
+
 
 ## About Me:
 - 💻 Software Engineer
